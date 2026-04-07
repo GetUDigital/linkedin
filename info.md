@@ -1369,7 +1369,7 @@ CompletableFuture<String> safe = CompletableFuture
     .handle((result, ex) -> ex != null ? "Error" : result); // always runs
 ```
 
----
+---[java_8_features.md](../../Users/user/Downloads/java_8_features.md)
 
 ## Quick Interview Reference
 
