@@ -1,70 +1,68 @@
 # 🎯 How I Approach Interviews (My Experience – Takeaways)
 
-This is how I approach interviews based on my experience.
+This is how I approach interviews based on my experience 👇
 
 ---
 
 ## 📌 Table of Contents
-- [1. Strong Introduction](#-1-give-a-strong-introduction)
-- [2. Know Your Resume](#-2-know-your-resume-completely)
-- [3. Handle Partial Knowledge](#-3-handle-partial-knowledge-smartly)
-- [Final Learning](#-final-learning)
-- [Key Takeaway](#-key-takeaway)
+- [1. Introduction Strategy](#-1-introduction-strategy)
+- [2. Framing Your Story](#-2-framing-your-story)
+- [3. Handling Experience & Contribution](#-3-handling-experience--contribution)
+- [4. Knowing Your Resume](#-4-knowing-your-resume)
+- [5. Handling Partial Knowledge](#-5-handling-partial-knowledge)
+- [My Learning](#-my-learning)
 
 ---
 
-## 👉 1. Give a Strong Introduction
+## 👉 1. Introduction Strategy
 
-- In most cases, start with a proper introduction
-- Include your **experience, skills, and projects**
-- Talk about your **contribution**
+Include your experience, your skills, and your projects
 
-> Even if your contribution was small, create a story like you handled that feature/module.
-
-### 🔹 Key Point:
-- Be ready to answer **how you implemented it**
-- Highlight the important parts
-- Frame your story so the interviewer becomes **curious about your implementation**
+Talk about your contribution and also highlight your experiences in the company and your impact.
 
 ---
 
-## 👉 2. Know Your Resume Completely
+## 👉 2. Framing Your Story
 
-- Whatever you write in your resume, **you must know it fully**
-- This gives you **free points in the interview**
+Highlight the points you are going to talk about
 
-### 🔹 Benefit:
-- Helps you control **15–20 minutes of the interview**
-- Allows you to **showcase your strengths confidently**
+Frame your story in a way that makes the interviewer curious about your implementation, like any project optimization or any feature or skill that the interviewer can talk about
 
 ---
 
-## 👉 3. Handle Partial Knowledge Smartly
+## 👉 3. Handling Experience & Contribution
 
-- Many times, you only know a concept partially
+Even if you didn’t have much experience/contribution in an ongoing module but you want to discuss it
 
-### 🔹 What I say:
+Pick a module that is relevant for that role, create a story like you handled that feature/module, but you should be ready to answer how you implemented it and also prepare for cross questions so that it shows you own that module and you know the whole in and out about it.
+
+---
+
+## 👉 4. Knowing Your Resume
+
+Whatever you write in your resume, you should know it completely
+
+---
+
+## 👉 5. Handling Partial Knowledge
+
+Many times it happens you know only a bit about a concept
+
+At that time, I tell the interviewer:
+
 > “I may not know the exact definition or explanation, but I have implemented this…”
 
-### 🔹 Then explain:
-- Your implementation
-- Your approach to solving the problem
+Then I explain:
 
-❌ Avoid:
-- Giving random or incorrect answers
+- How I implemented it
+- My approach to solving that problem
 
----
-
-## 🚀 Final Learning
-
-- Focus on **implementation + clarity**
-- Not just theory
+❌ Don’t say random things if you don’t have an idea
 
 ---
 
-## 💡 Key Takeaway
+## 🚀 My Learning
 
-> You don’t need to know everything.  
-> You just need to explain what you know clearly and confidently.
+Focus on implementation + clarity, not just theory.
 
 ---
