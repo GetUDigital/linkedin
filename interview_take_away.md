@@ -4,6 +4,15 @@ This is how I approach interviews based on my experience.
 
 ---
 
+## 📌 Table of Contents
+- [1. Strong Introduction](#-1-give-a-strong-introduction)
+- [2. Know Your Resume](#-2-know-your-resume-completely)
+- [3. Handle Partial Knowledge](#-3-handle-partial-knowledge-smartly)
+- [Final Learning](#-final-learning)
+- [Key Takeaway](#-key-takeaway)
+
+---
+
 ## 👉 1. Give a Strong Introduction
 
 - In most cases, start with a proper introduction
@@ -12,7 +21,7 @@ This is how I approach interviews based on my experience.
 
 > Even if your contribution was small, create a story like you handled that feature/module.
 
-### Key Point:
+### 🔹 Key Point:
 - Be ready to answer **how you implemented it**
 - Highlight the important parts
 - Frame your story so the interviewer becomes **curious about your implementation**
@@ -24,7 +33,7 @@ This is how I approach interviews based on my experience.
 - Whatever you write in your resume, **you must know it fully**
 - This gives you **free points in the interview**
 
-### Benefit:
+### 🔹 Benefit:
 - Helps you control **15–20 minutes of the interview**
 - Allows you to **showcase your strengths confidently**
 
@@ -34,10 +43,10 @@ This is how I approach interviews based on my experience.
 
 - Many times, you only know a concept partially
 
-### What I say:
+### 🔹 What I say:
 > “I may not know the exact definition or explanation, but I have implemented this…”
 
-### Then explain:
+### 🔹 Then explain:
 - Your implementation
 - Your approach to solving the problem
 
