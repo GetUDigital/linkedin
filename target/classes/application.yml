@@ -31,7 +31,7 @@ spring:
   # ── MongoDB Configuration (if using) ─────────────────────────────────────
   data:
      mongodb:
-       uri: mongodb+srv://linkedin_dev_version_one:hcfIgJYaFlOpVCnL@cluster0.isgi22t.mongodb.net/linkedin_mongo_version_one
+       uri: mongodb://127.0.0.1:27017/local
        auto-index-creation: true
 
 
