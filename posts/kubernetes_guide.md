@@ -27,9 +27,7 @@ Its key value: it acts as an **abstraction layer** between your application and 
 
 A Kubernetes setup is called a **cluster**. A cluster has two types of components: the **Control Plane** (the brain) and **Worker Nodes** (the muscle).
 
-![Kubernetes Architecture Diagram](kubernetes_architecture.svg)
-
-> The diagram above shows a full cluster: the Control Plane on the left, two Worker Nodes in the middle (each running Pods inside a CRI), and the Cloud Provider API on the right connected via the Cloud Controller Manager.
+![Kubernetes Architecture](/kubernetes_cluster_architecture.svg)> The diagram above shows a full cluster: the Control Plane on the left, two Worker Nodes in the middle (each running Pods inside a CRI), and the Cloud Provider API on the right connected via the Cloud Controller Manager.
 
 ---
 
